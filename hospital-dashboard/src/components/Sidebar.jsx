@@ -18,7 +18,7 @@ export default function Sidebar() {
       <div className="p-8 pb-4">
         <h1 className="text-2xl font-black text-indigo-600 tracking-tighter flex items-center">
            <svg className="w-8 h-8 mr-2 -ml-1 text-indigo-600" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/></svg>
-           ANTIGRAVITY
+           CITY PULSE
         </h1>
         <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mt-1 ml-1">Universal Medical Sync</p>
       </div>
@@ -75,7 +75,7 @@ export default function Sidebar() {
            </div>
            <div>
              <p className="text-[10px] font-black text-slate-600 uppercase tracking-widest">Live Sync</p>
-             <p className="text-[10px] font-bold text-slate-400">Antigravity Cloud</p>
+             <p className="text-[10px] font-bold text-slate-400">City Pulse Cloud</p>
            </div>
         </div>
       </div>
